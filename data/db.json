@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "a202",
+      "username": "sai",
+      "name": "sai ganesh",
+      "email": "saiganeh@gmail.com",
+      "phone": "9741852035",
+      "website": "ljGWADFkeg.com",
+      "street": "qwgfd",
+      "city": "qwdhgwi",
+      "company": "JHDKhw.com",
+      "address": {
+        "street": "qwgfd",
+        "city": "qwdhgwi",
+        "company": {
+          "name": "JHDKhw.com"
+        }
+      }
+    },
+    {
+      "id": "1502",
+      "username": "gfsgd",
+      "name": "sgdgbs",
+      "email": "sgsdgs",
+      "phone": "dsfhdfhgdf",
+      "website": "fhdfhdfh",
+      "street": "dfhdfhdf",
+      "city": "dfhdfh",
+      "company": "dfhdh",
+      "address": {
+        "street": "dfhdfhdf",
+        "city": "dfhdfh",
+        "company": {
+          "name": "dfhdh"
+        }
+      }
+    },
+    {
+      "id": "1817",
+      "username": "sai",
+      "name": "ganesh",
+      "email": "abc@gmali.com",
+      "phone": "7410963.8520",
+      "website": "abc.com",
+      "street": "pgpl",
+      "city": "pdpl",
+      "company": "company.com",
+      "address": {
+        "street": "pgpl",
+        "city": "knr",
+        "company": {
+          "name": "company.com"
+        }
+      }
+    },
+    {
+      "id": "c2aa",
+      "username": "lkaSBB",
+      "name": "LASbhcl",
+      "email": "sk;jdbs;d",
+      "phone": "lkskdbcs;",
+      "website": "lshdjbcsla",
+      "street": "lksdbc;sa",
+      "city": "ksdcb;s",
+      "company": "lksdcbs;d",
+      "address": {
+        "street": "lksdbc;sa",
+        "city": "ksdcb;s",
+        "company": {
+          "name": "lksdcbs;d"
+        }
+      }
+    }
+  ]
+}
